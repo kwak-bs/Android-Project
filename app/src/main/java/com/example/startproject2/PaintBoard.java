@@ -113,5 +113,4 @@ public class PaintBoard extends View {
 
     invalidate();
     }
-
   }
